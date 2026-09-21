@@ -39,7 +39,7 @@
     "bluebird": "^3.7.2",
     "chai": "^4.2.0",
     "coveralls": "^3.0.9",
-    "eslint": "^4.19.1",
+    "eslint": "^10.11.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.20.1",
     "istanbul": "^0.4.5",
